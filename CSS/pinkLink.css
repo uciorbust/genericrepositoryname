@@ -273,7 +273,7 @@ li.nav-item>a.nav-link:focus {
 }
 
 .redacted span:after {
-    background: white;
+    background: black;
     border-radius: 0.1em;
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.35);
     content: " ";
